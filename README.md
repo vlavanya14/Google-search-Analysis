@@ -1,5 +1,5 @@
 # Google-search-Analysis
-Vizualing a bar chart for given word
+Visualize a bar chart for given word
 ![image](https://github.com/user-attachments/assets/8a7988c1-9afd-418b-8780-e5e9faf8479b)
 
 Last 3-4 years trend searches
